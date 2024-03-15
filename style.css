@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap' );
+
+body {
+    background-image: url(imagens/MOB\ NANANDO.png);
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto', ital;
+    font-size: 24px;
+}
+
+/*passe o mouse em cima para saber os segredos (site feito como um "enigma")*/
+
+main#container {
+}
+
+h1.titulo {
+    color: rgb(220, 178, 255);
+    font-family: 'Roboto', Ital;
+}
+
+p.frase {
+    font-weight: bold;
+}
+
+p.autor {
+    font-style: italic;
+}
